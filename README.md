@@ -47,8 +47,12 @@ need_help_with:   Microservices, Docker, AWS, system design in production
 ask_me_about:     Java, Spring Boot, REST APIs, SQL, DSA, OOP, Spring Security, JWT
 fun_fact:         1500+ DSA problems solved, still hunting for the cleaner solution 🚀
 contact:          subhadippati30@gmail.com
-resume:           https://drive.google.com/file/d/1j1xcntlsYsDDaS58-VwqCgOa3dG_c4r_/view
+resume:           ./resume.pdf
 ```
+
+<p align="center">
+  📄 <a href="https://drive.google.com/file/d/1j1xcntlsYsDDaS58-VwqCgOa3dG_c4r_/view?usp=sharing" target="_blank"><b>Click Me!</b></a> to view my resume
+</p>
 
 ---
 
