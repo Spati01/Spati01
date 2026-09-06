@@ -57,20 +57,44 @@ resume:           ./resume.pdf
 ---
 
 ```bash
-subhadip@dev:~$ ls -la tech_stack/
+subhadip@dev:~$ ls -la tech_stack/ --group-by=category
 ```
 
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="42" height="42"/></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42"/></a>
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=39FF14" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14" alt="SQL"/>
+</p>
+
+<p align="center"><b>Frameworks &amp; Libraries</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=39FF14" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_Security-000000?style=for-the-badge&logo=springsecurity&logoColor=39FF14" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Hibernate/JPA-000000?style=for-the-badge&logo=hibernate&logoColor=39FF14" alt="Hibernate JPA"/>
+  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14" alt="REST APIs"/>
+</p>
+
+<p align="center"><b>Databases</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=39FF14" alt="SQL Server"/>
+</p>
+
+<p align="center"><b>Tools &amp; Platforms</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=39FF14" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=39FF14" alt="AWS"/>
+</p>
+
+<p align="center"><b>Currently Exploring</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=kubernetes&logoColor=39FF14" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=architecture&logoColor=39FF14" alt="System Design"/>
+  <img src="https://img.shields.io/badge/AI_%2B_Java-000000?style=for-the-badge&logo=openai&logoColor=39FF14" alt="AI Java"/>
 </p>
 
 ---
@@ -108,7 +132,7 @@ subhadip@dev:~$ git log --graph --oneline --contributor=snake
   see setup note underneath.
 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spati01/spati01/output/github-contribution-grid-snake.svg" alt="snake contribution animation" />
+  <img src="https://raw.githubusercontent.com/Spati01/Spati01/output/github-contribution-grid-snake.svg" alt="snake contribution animation" />
 </p>
 
 <details>
@@ -116,7 +140,7 @@ subhadip@dev:~$ git log --graph --oneline --contributor=snake
 
 <br>
 
-1. In your `spati01/spati01` repo, add a workflow file at `.github/workflows/snake.yml` using the [Platane/snk](https://github.com/Platane/snk) action.
+1. In your `Spati01/Spati01` repo (this is your GitHub profile repo — same name as your username), add a workflow file at `.github/workflows/snake.yml` using the [Platane/snk](https://github.com/Platane/snk) action.
 2. It regenerates the SVG above on a schedule — once set up, the snake animates your real contribution graph automatically.
 3. Until the workflow runs at least once, this image slot will simply be empty (it won't break the page).
 
@@ -132,13 +156,13 @@ subhadip@dev:~$ ls -la projects/ --sort=featured
   <a href="https://github.com/spati01?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=spati01&repo=Portfolio-Website&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="Repo 1"/>
   </a>
-  <a href="https://github.com/spati01?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spati01&repo=REPLACE_WITH_REPO_NAME&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="Repo 2"/>
+  <a href="https://github.com/Spati01/Dynamic_PDF_Generation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spati01&repo=Dynamic_PDF_Generation&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="Repo 2"/>
   </a>
 </p>
 
 <p align="center">
-  <sub><em># swap REPLACE_WITH_REPO_NAME for a real public repo — or pin repos from your profile page instead</em></sub>
+  <sub><em># add more pinned repos anytime by swapping the repo= value, or pin repos directly from your GitHub profile page</em></sub>
 </p>
 
 ---
