@@ -71,17 +71,9 @@ resume:           ./resume.pdf
 ╰─────────────────────────────────────────────────────────--╯
 ```
 
-<div align="center">
-
-### 🧭 Trainee Software Engineer
-**Perennation Computer Solutions** · Kolkata, India
-`Jan 2024 – Jun 2024`
-
-</div>
-
-- 🩺 Developed secure role-based **healthcare management modules** using Java, Jakarta Servlets, JSP, and MySQL — implementing authentication, authorization, and patient data access control.
-- 🔐 Resolved **15+ authentication and session management issues**, improving sign-up success rate by **25%** and reducing login failures by **30%**.
-- ⚡ Optimized SQL queries and database indexing, reducing page load time by **20%** and improving backend performance and application responsiveness.
+<p align="center">
+  <img src="./assets/experience-newspaper.svg" alt="Trainee Software Engineer experience, styled as a torn newspaper clipping" width="100%"/>
+</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
 
@@ -181,39 +173,9 @@ resume:           ./resume.pdf
 ╰─────────────────────────────────────────────────────────--╯
 ```
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36"/></td>
-<td width="150" align="left"><b>Java</b></td>
-<td width="320"><img src="https://progress-bar.dev/90/?title=&width=280&color=f89820&suffix=%25"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" height="36"/></td>
-<td align="left"><b>Spring Boot</b></td>
-<td><img src="https://progress-bar.dev/85/?title=&width=280&color=6DB33F&suffix=%25"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36"/></td>
-<td align="left"><b>SQL / Databases</b></td>
-<td><img src="https://progress-bar.dev/80/?title=&width=280&color=00758F&suffix=%25"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="36" height="36"/></td>
-<td align="left"><b>REST API Design</b></td>
-<td><img src="https://progress-bar.dev/88/?title=&width=280&color=A855F7&suffix=%25"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="36" height="36"/></td>
-<td align="left"><b>DSA / Problem Solving</b></td>
-<td><img src="https://progress-bar.dev/92/?title=&width=280&color=FFA116&suffix=%25"/></td>
-</tr>
-</table>
-
-<sub><em>self-assessed, not benchmarked — swap the numbers anytime to match how you'd rate yourself</em></sub>
-
-</div>
+<p align="center">
+  <img src="./assets/skills-newspaper.svg" alt="Skill matrix, styled as a folded newspaper clipping with skill bars on each flap" width="100%"/>
+</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
 
