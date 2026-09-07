@@ -256,17 +256,7 @@ resume:           ./resume.pdf
 │ $ ./run_analytics.sh --verbose                            │
 ╰─────────────────────────────────────────────────────────--╯
 ```
-<p align="center">
-  <img height="165"
-    src="https://github-readme-stats.vercel.app/api?username=spati01&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9"
-    alt="spati01 GitHub stats"
-  />
-
-  <img height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=spati01&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9"
-    alt="Top Languages"
-  />
-</p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=spati01&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="spati01 GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spati01&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" alt="Top Languages" /> </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spati01&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak Stats" />
