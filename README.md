@@ -34,6 +34,29 @@
 
 ```
 ╭──●───●───●───────────────────────────────────────────────╮
+│  bash — subhadip@dev: ~                                   │
+├─────────────────────────────────────────────────────────-─┤
+│ $ neofetch                                                  │
+╰─────────────────────────────────────────────────────────--╯
+```
+
+```
+        .java.       subhadip@dev
+       (  ☕  )      ────────────────────────────
+        `-...-'      OS:        Backend Engineer OS
+                      Host:      Spring Boot Runtime
+   ██████████████     Kernel:    Java 17+
+   ██  BACKEND  ██    Uptime:    3+ years of shipping code
+   ██   DEV.io  ██    Shell:     bash / IntelliJ terminal
+   ██████████████     Editor:    IntelliJ IDEA
+                      DE:        REST APIs + Microservices
+                      Theme:     Dark [GTK3] — obviously
+                      CPU:       Caffeine-powered
+                      Memory:    1500+ DSA problems cached
+```
+
+```
+╭──●───●───●───────────────────────────────────────────────╮
 │  bash — subhadip@dev: ~/about                             │
 ├─────────────────────────────────────────────────────────-─┤
 │ $ cat about_me.sh                                          │
@@ -53,6 +76,12 @@ resume:           ./resume.pdf
 
 <p align="center">
   📄 <a href="https://drive.google.com/file/d/1j1xcntlsYsDDaS58-VwqCgOa3dG_c4r_/view?usp=sharing" target="_blank"><b>Click Me!</b></a> to view my resume
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA%20Problems%20Solved-1500%2B-39FF14?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Articles%20Published-Medium-39FF14?style=for-the-badge&logo=medium&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-39FF14?style=for-the-badge&logo=java&logoColor=black&labelColor=0D1117" />
 </p>
 
 ```
@@ -113,11 +142,39 @@ resume:           ./resume.pdf
 
 </div>
 
+<h4 align="center">$ cat proficiency.log</h4>
+
+<div align="center">
+
+**Java** &nbsp;`████████████████░░` &nbsp;90%
+<br/>
+<img src="https://progress-bar.dev/90/?title=Java&width=500&color=39FF14" />
+
+**Spring Boot** &nbsp;`███████████████░░░` &nbsp;85%
+<br/>
+<img src="https://progress-bar.dev/85/?title=Spring+Boot&width=500&color=39FF14" />
+
+**SQL / Databases** &nbsp;`███████████████░░░` &nbsp;80%
+<br/>
+<img src="https://progress-bar.dev/80/?title=SQL&width=500&color=39FF14" />
+
+**REST API Design** &nbsp;`████████████████░░` &nbsp;88%
+<br/>
+<img src="https://progress-bar.dev/88/?title=REST+APIs&width=500&color=39FF14" />
+
+**DSA / Problem Solving** &nbsp;`█████████████████░` &nbsp;92%
+<br/>
+<img src="https://progress-bar.dev/92/?title=DSA&width=500&color=39FF14" />
+
+<sub><em>self-assessed, not benchmarked — swap the numbers anytime to match how you'd rate yourself</em></sub>
+
+</div>
+
 ```
 ╭──●───●───●───────────────────────────────────────────────╮
 │  bash — subhadip@dev: ~/analytics                         │
 ├─────────────────────────────────────────────────────────-─┤
-│ $ ./run_analytics.sh --verbose                              │
+│ $ ./run_analytics.sh --verbose                            │
 ╰─────────────────────────────────────────────────────────--╯
 ```
 
@@ -146,7 +203,7 @@ resume:           ./resume.pdf
 ╭──●───●───●───────────────────────────────────────────────╮
 │  bash — subhadip@dev: ~/contributions                     │
 ├─────────────────────────────────────────────────────────-─┤
-│ $ git log --graph --oneline --contributor=snake             │
+│ $ git log --graph --oneline --contributor=snake           │
 ╰─────────────────────────────────────────────────────────--╯
 ```
 
@@ -164,7 +221,7 @@ resume:           ./resume.pdf
 ╭──●───●───●───────────────────────────────────────────────╮
 │  bash — subhadip@dev: ~/projects                          │
 ├─────────────────────────────────────────────────────────-─┤
-│ $ ls -la projects/ --sort=featured                          │
+│ $ ls -la projects/ --sort=featured                        │
 ╰─────────────────────────────────────────────────────────--╯
 ```
 
@@ -184,7 +241,7 @@ resume:           ./resume.pdf
 ╭──●───●───●───────────────────────────────────────────────╮
 │  bash — subhadip@dev: ~/random                            │
 ├─────────────────────────────────────────────────────────-─┤
-│ $ fortune | cowsay -f dragon                                 │
+│ $ fortune | cowsay -f dragon                              │
 ╰─────────────────────────────────────────────────────────--╯
 ```
 
@@ -196,7 +253,7 @@ resume:           ./resume.pdf
 ╭──●───●───●───────────────────────────────────────────────╮
 │  bash — subhadip@dev: ~/contact                           │
 ├─────────────────────────────────────────────────────────-─┤
-│ $ cat social_links.json                                      │
+│ $ cat social_links.json                                   │
 ╰─────────────────────────────────────────────────────────--╯
 ```
 
@@ -215,8 +272,8 @@ resume:           ./resume.pdf
 ╭──●───●───●───────────────────────────────────────────────╮
 │  bash — subhadip@dev: ~                                   │
 ├─────────────────────────────────────────────────────────-─┤
-│ $ exit                                                        │
-│ process finished with exit code 0 ✅                          │
+│ $ exit                                                    │
+│ process finished with exit code 0 ✅                     │
 ╰─────────────────────────────────────────────────────────--╯
 ```
 
