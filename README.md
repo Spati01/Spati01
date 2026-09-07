@@ -56,10 +56,32 @@ resume:           ./resume.pdf
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA%20Problems%20Solved-1500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Articles%20Published-Medium-39FF14?style=for-the-badge&logo=medium&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-39FF14?style=for-the-badge&logo=java&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/DSA%20Problems%20Solved-1500%2B-FF3131?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Articles%20Published-Medium-00C8FF?style=for-the-badge&logo=medium&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-FFD60A?style=for-the-badge&logo=java&logoColor=black&labelColor=0D1117" />
 </p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
+
+```
+╭──●───●───●───────────────────────────────────────────────╮
+│  bash — subhadip@dev: ~/experience                        │
+├─────────────────────────────────────────────────────────-─┤
+│ $ cat experience.log --tail=1                              │
+╰─────────────────────────────────────────────────────────--╯
+```
+
+<div align="center">
+
+### 🧭 Trainee Software Engineer
+**Perennation Computer Solutions** · Kolkata, India
+`Jan 2024 – Jun 2024`
+
+</div>
+
+- 🩺 Developed secure role-based **healthcare management modules** using Java, Jakarta Servlets, JSP, and MySQL — implementing authentication, authorization, and patient data access control.
+- 🔐 Resolved **15+ authentication and session management issues**, improving sign-up success rate by **25%** and reducing login failures by **30%**.
+- ⚡ Optimized SQL queries and database indexing, reducing page load time by **20%** and improving backend performance and application responsiveness.
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
 
@@ -79,34 +101,62 @@ resume:           ./resume.pdf
 <td>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=39FF14" alt="Java"/>
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PL/SQL-000000?style=for-the-badge&logo=oracle&logoColor=39FF14" alt="PL/SQL"/>
 </td>
 </tr>
 <tr>
-<td align="center"><b>🧩 Frameworks</b></td>
+<td align="center"><b>🧩 Frameworks &amp; Libraries</b></td>
 <td>
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=39FF14" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Spring_Security-000000?style=for-the-badge&logo=springsecurity&logoColor=39FF14" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Spring_MVC-000000?style=for-the-badge&logo=spring&logoColor=39FF14" alt="Spring MVC"/>
+  <img src="https://img.shields.io/badge/Spring_Core-000000?style=for-the-badge&logo=spring&logoColor=39FF14" alt="Spring Core"/>
   <img src="https://img.shields.io/badge/Hibernate/JPA-000000?style=for-the-badge&logo=hibernate&logoColor=39FF14" alt="Hibernate JPA"/>
-  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=39FF14" alt="JWT"/>
+  <img src="https://img.shields.io/badge/JDBC-000000?style=for-the-badge&logo=java&logoColor=39FF14" alt="JDBC"/>
+  <img src="https://img.shields.io/badge/Jakarta_EE-000000?style=for-the-badge&logo=jakartaee&logoColor=39FF14" alt="Jakarta EE"/>
+  <img src="https://img.shields.io/badge/Lombok-000000?style=for-the-badge&logo=java&logoColor=39FF14" alt="Lombok"/>
+  <img src="https://img.shields.io/badge/MapStruct-000000?style=for-the-badge&logo=java&logoColor=39FF14" alt="MapStruct"/>
 </td>
 </tr>
 <tr>
 <td align="center"><b>🗄️ Databases</b></td>
 <td>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=39FF14" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Relational_DB_Design-000000?style=for-the-badge&logo=database&logoColor=39FF14" alt="Relational DB Design"/>
+  <img src="https://img.shields.io/badge/Query_Optimization-000000?style=for-the-badge&logo=mysql&logoColor=39FF14" alt="Query Optimization"/>
+  <img src="https://img.shields.io/badge/Indexing_%26_Transactions-000000?style=for-the-badge&logo=mysql&logoColor=39FF14" alt="Indexing"/>
 </td>
 </tr>
 <tr>
-<td align="center"><b>🛠️ Tools & Platforms</b></td>
+<td align="center"><b>🛠️ Tools &amp; Technologies</b></td>
 <td>
+  <img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=auth0&logoColor=39FF14" alt="OAuth2"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=39FF14" alt="JWT"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=39FF14" alt="Maven"/>
+  <img src="https://img.shields.io/badge/Gradle-000000?style=for-the-badge&logo=gradle&logoColor=39FF14" alt="Gradle"/>
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=39FF14" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Tomcat-000000?style=for-the-badge&logo=apachetomcat&logoColor=39FF14" alt="Tomcat"/>
+  <img src="https://img.shields.io/badge/JUnit-000000?style=for-the-badge&logo=junit5&logoColor=39FF14" alt="JUnit"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14" alt="Linux"/>
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14" alt="Docker"/>
   <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=39FF14" alt="AWS"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🧠 Core Computer Science</b></td>
+<td>
+  <img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14" alt="DSA"/>
+  <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=java&logoColor=39FF14" alt="OOP"/>
+  <img src="https://img.shields.io/badge/SOLID_Principles-000000?style=for-the-badge&logo=java&logoColor=39FF14" alt="SOLID"/>
+  <img src="https://img.shields.io/badge/Collections_Framework-000000?style=for-the-badge&logo=java&logoColor=39FF14" alt="Collections"/>
+  <img src="https://img.shields.io/badge/DBMS-000000?style=for-the-badge&logo=database&logoColor=39FF14" alt="DBMS"/>
+  <img src="https://img.shields.io/badge/Operating_Systems-000000?style=for-the-badge&logo=linux&logoColor=39FF14" alt="OS"/>
+  <img src="https://img.shields.io/badge/Computer_Networks-000000?style=for-the-badge&logo=cisco&logoColor=39FF14" alt="Networks"/>
+  <img src="https://img.shields.io/badge/Multithreading-000000?style=for-the-badge&logo=java&logoColor=39FF14" alt="Multithreading"/>
+  <img src="https://img.shields.io/badge/Design_Patterns-000000?style=for-the-badge&logo=java&logoColor=39FF14" alt="Design Patterns"/>
 </td>
 </tr>
 <tr>
@@ -227,6 +277,22 @@ resume:           ./resume.pdf
 ```
 
 <p align="center">
+  <a href="https://github.com/Spati01/WorkforceManagementAPI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spati01&repo=WorkforceManagementAPI&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="WorkforceManagementAPI repo card"/>
+  </a>
+  <a href="https://github.com/Spati01/SCM2.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spati01&repo=SCM2.0&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="SCM2.0 repo card"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Spati01/Healthcare-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spati01&repo=Healthcare-Management-System&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="Healthcare-Management-System repo card"/>
+  </a>
+  <a href="https://github.com/Spati01/Coupon-Management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spati01&repo=Coupon-Management&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="Coupon-Management repo card"/>
+  </a>
+</p>
+<p align="center">
   <a href="https://spati01.github.io/Portfolio-Website/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=spati01&repo=Portfolio-Website&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="Portfolio-Website repo card"/>
   </a>
@@ -237,6 +303,37 @@ resume:           ./resume.pdf
 <p align="center">
   <sub><em># add more pinned repos anytime by swapping the repo= value above, or pin repos directly from your GitHub profile page</em></sub>
 </p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
+
+```
+╭──●───●───●───────────────────────────────────────────────╮
+│  bash — subhadip@dev: ~/achievements                      │
+├─────────────────────────────────────────────────────────-─┤
+│ $ cat achievements.log                                    │
+╰─────────────────────────────────────────────────────────--╯
+```
+
+- 🏆 Earned the **Certificate of Participation – Elastic Blogathon 2026**, selected among 100 participants nationwide for contributing a technical blog recognized by Elastic Technologies India Pvt. Ltd.
+- 🥉 Secured **2nd Runner-up (3rd Rank)** in the **BrainByte Battle** organized by Aditya University (via Unstop), representing Neotia Institute of Technology, Management and Science.
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
+
+```
+╭──●───●───●───────────────────────────────────────────────╮
+│  bash — subhadip@dev: ~/education                         │
+├─────────────────────────────────────────────────────────-─┤
+│ $ cat education.log                                       │
+╰─────────────────────────────────────────────────────────--╯
+```
+
+<div align="center">
+
+### 🎓 Bachelor of Technology in Computer Science and Engineering
+**Neotia Institute of Technology, Management and Science (NITMAS)** · West Bengal, India
+`2019 – 2023` &nbsp;|&nbsp; **CGPA: 8.21/10**
+
+</div>
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
 
