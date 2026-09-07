@@ -36,31 +36,6 @@
 
 ```
 ╭──●───●───●───────────────────────────────────────────────╮
-│  bash — subhadip@dev: ~                                   │
-├─────────────────────────────────────────────────────────-─┤
-│ $ neofetch                                                │
-╰─────────────────────────────────────────────────────────--╯
-```
-
-```
-        .java.       subhadip@dev
-       (  ☕  )      ────────────────────────────
-        `-...-'      OS:        Backend Engineer OS
-                      Host:      Spring Boot Runtime
-   ██████████████     Kernel:    Java 17+
-   ██  BACKEND  ██    Uptime:    3+ years of shipping code
-   ██   DEV.io  ██    Shell:     bash / IntelliJ terminal
-   ██████████████     Editor:    IntelliJ IDEA
-                      DE:        REST APIs + Microservices
-                      Theme:     Dark [GTK3] — obviously
-                      CPU:       Caffeine-powered
-                      Memory:    1500+ DSA problems cached
-```
-
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
-
-```
-╭──●───●───●───────────────────────────────────────────────╮
 │  bash — subhadip@dev: ~/about                             │
 ├─────────────────────────────────────────────────────────-─┤
 │ $ cat about_me.sh                                         │
@@ -150,29 +125,43 @@ resume:           ./resume.pdf
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
 
-<h4 align="center">$ cat proficiency.log</h4>
+```
+╭──●───●───●───────────────────────────────────────────────╮
+│  bash — subhadip@dev: ~/skills                            │
+├─────────────────────────────────────────────────────────-─┤
+│ $ cat skill_matrix.log                                    │
+╰─────────────────────────────────────────────────────────--╯
+```
 
 <div align="center">
 
-**Java** &nbsp;`████████████████░░` &nbsp;90%
-<br/>
-<img src="https://progress-bar.dev/90/?title=Java&width=500&color=39FF14" />
-
-**Spring Boot** &nbsp;`███████████████░░░` &nbsp;85%
-<br/>
-<img src="https://progress-bar.dev/85/?title=Spring+Boot&width=500&color=39FF14" />
-
-**SQL / Databases** &nbsp;`███████████████░░░` &nbsp;80%
-<br/>
-<img src="https://progress-bar.dev/80/?title=SQL&width=500&color=39FF14" />
-
-**REST API Design** &nbsp;`████████████████░░` &nbsp;88%
-<br/>
-<img src="https://progress-bar.dev/88/?title=REST+APIs&width=500&color=39FF14" />
-
-**DSA / Problem Solving** &nbsp;`█████████████████░` &nbsp;92%
-<br/>
-<img src="https://progress-bar.dev/92/?title=DSA&width=500&color=39FF14" />
+<table>
+<tr>
+<td align="center" width="70"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="34" height="34"/></td>
+<td width="140" align="left"><b>Java</b></td>
+<td><img src="https://progress-bar.dev/90/?width=350&color=39FF14" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="34" height="34"/></td>
+<td align="left"><b>Spring Boot</b></td>
+<td><img src="https://progress-bar.dev/85/?width=350&color=39FF14" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="34" height="34"/></td>
+<td align="left"><b>SQL / Databases</b></td>
+<td><img src="https://progress-bar.dev/80/?width=350&color=39FF14" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="34" height="34"/></td>
+<td align="left"><b>REST API Design</b></td>
+<td><img src="https://progress-bar.dev/88/?width=350&color=39FF14" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/leetcode/39FF14" width="34" height="34"/></td>
+<td align="left"><b>DSA / Problem Solving</b></td>
+<td><img src="https://progress-bar.dev/92/?width=350&color=39FF14" /></td>
+</tr>
+</table>
 
 <sub><em>self-assessed, not benchmarked — swap the numbers anytime to match how you'd rate yourself</em></sub>
 
