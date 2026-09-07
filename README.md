@@ -257,15 +257,13 @@ resume:           ./resume.pdf
 ╰─────────────────────────────────────────────────────────--╯
 ```
 <p align="center">
-  <img
-    height="165"
-    src="https://YOUR-STATS-APP.vercel.app/api?username=spati01&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9"
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api?username=spati01&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9"
     alt="spati01 GitHub stats"
   />
 
-  <img
-    height="165"
-    src="https://YOUR-STATS-APP.vercel.app/api/top-langs/?username=spati01&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9"
+  <img height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=spati01&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9"
     alt="Top Languages"
   />
 </p>
