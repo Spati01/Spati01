@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f5132,25:14532d,50:166534,75:15803d,100:39FF14&height=210&section=header&text=Subhadip%20Pati&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=55&descSize=18&descColor=E6FFE6&animation=fadeIn" alt="header banner" width="100%"/>
 
+<img src="https://progress-bar.dev/100/?title=booting+profile&width=500&color=39FF14&suffix=%25" alt="boot progress" />
+
 ```
    _____       _     _               _ _         _____      _   _ 
   / ____|     | |   | |             | (_)       |  __ \    | | (_)
@@ -36,7 +38,7 @@
 ╭──●───●───●───────────────────────────────────────────────╮
 │  bash — subhadip@dev: ~                                   │
 ├─────────────────────────────────────────────────────────-─┤
-│ $ neofetch                                                  │
+│ $ neofetch                                                │
 ╰─────────────────────────────────────────────────────────--╯
 ```
 
@@ -55,11 +57,13 @@
                       Memory:    1500+ DSA problems cached
 ```
 
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
+
 ```
 ╭──●───●───●───────────────────────────────────────────────╮
 │  bash — subhadip@dev: ~/about                             │
 ├─────────────────────────────────────────────────────────-─┤
-│ $ cat about_me.sh                                          │
+│ $ cat about_me.sh                                         │
 ╰─────────────────────────────────────────────────────────--╯
 ```
 
@@ -84,11 +88,13 @@ resume:           ./resume.pdf
   <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-39FF14?style=for-the-badge&logo=java&logoColor=black&labelColor=0D1117" />
 </p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
+
 ```
 ╭──●───●───●───────────────────────────────────────────────╮
 │  bash — subhadip@dev: ~/tech_stack                        │
 ├─────────────────────────────────────────────────────────-─┤
-│ $ ls -la tech_stack/ --group-by=category                   │
+│ $ ls -la tech_stack/ --group-by=category                  │
 ╰─────────────────────────────────────────────────────────--╯
 ```
 
@@ -142,6 +148,8 @@ resume:           ./resume.pdf
 
 </div>
 
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
+
 <h4 align="center">$ cat proficiency.log</h4>
 
 <div align="center">
@@ -169,6 +177,8 @@ resume:           ./resume.pdf
 <sub><em>self-assessed, not benchmarked — swap the numbers anytime to match how you'd rate yourself</em></sub>
 
 </div>
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
 
 ```
 ╭──●───●───●───────────────────────────────────────────────╮
@@ -199,6 +209,8 @@ resume:           ./resume.pdf
   <img src="https://github-profile-trophy.vercel.app/?username=spati01&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" alt="spati01 trophies" />
 </p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
+
 ```
 ╭──●───●───●───────────────────────────────────────────────╮
 │  bash — subhadip@dev: ~/contributions                     │
@@ -216,6 +228,8 @@ resume:           ./resume.pdf
 <p align="center">
   <img src="https://raw.githubusercontent.com/Spati01/Spati01/output/github-contribution-grid-snake.svg" alt="snake contribution animation" />
 </p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
 
 ```
 ╭──●───●───●───────────────────────────────────────────────╮
@@ -237,6 +251,8 @@ resume:           ./resume.pdf
   <sub><em># add more pinned repos anytime by swapping the repo= value above, or pin repos directly from your GitHub profile page</em></sub>
 </p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
+
 ```
 ╭──●───●───●───────────────────────────────────────────────╮
 │  bash — subhadip@dev: ~/random                            │
@@ -248,6 +264,8 @@ resume:           ./resume.pdf
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
 </p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
 
 ```
 ╭──●───●───●───────────────────────────────────────────────╮
@@ -268,12 +286,14 @@ resume:           ./resume.pdf
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 ```
 ╭──●───●───●───────────────────────────────────────────────╮
 │  bash — subhadip@dev: ~                                   │
 ├─────────────────────────────────────────────────────────-─┤
 │ $ exit                                                    │
-│ process finished with exit code 0 ✅                     │
+│ process finished with exit code 0 ✅                      │
 ╰─────────────────────────────────────────────────────────--╯
 ```
 
