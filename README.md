@@ -319,29 +319,50 @@ resume:           ./resume.pdf
 ```
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="33%">
 <a href="https://github.com/Spati01/WorkforceManagementAPI">
-<img src="https://img.shields.io/badge/🧑‍💼_Workforce_Mgmt_API-0D1117?style=for-the-badge&labelColor=1F6FEB&color=0D1117" width="230"/>
+<img src="https://img.shields.io/badge/🧑‍💼_Workforce_Mgmt_System-0D1117?style=for-the-badge&labelColor=1F6FEB&color=0D1117" width="230"/>
 </a>
 <br/>
-<sub>HR &amp; Workforce Domain · Java · Spring Boot</sub>
+<sub>HR &amp; Workforce Domain · Spring Boot · Gradle · MapStruct</sub>
+<details>
+<summary>Highlights</summary>
+<p align="left">
+- Architected a task management backend with automated reassignment logic and intelligent filtering to eliminate duplicate task allocations.<br/>
+- Validated RESTful APIs using JUnit and Postman for reliable, consistent backend behavior.<br/>
+- Integrated priority-based task categorization (HIGH/MEDIUM/LOW) and activity tracking for efficient workload management.
+</p>
+</details>
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/Spati01/SCM2.0">
-<img src="https://img.shields.io/badge/📦_SCM_2.0-0D1117?style=for-the-badge&labelColor=F2803F&color=0D1117" width="230"/>
+<img src="https://img.shields.io/badge/📦_Smart_Contact_Mgmt-0D1117?style=for-the-badge&labelColor=F2803F&color=0D1117" width="230"/>
 </a>
 <br/>
-<sub>Supply Chain Domain · Java · REST APIs</sub>
+<sub>Security Domain · Spring Security · OAuth2 · MySQL</sub>
+<details>
+<summary>Highlights</summary>
+<p align="left">
+- Designed a secure contact management platform with OAuth2 (Google/GitHub), email verification, and RBAC.<br/>
+- Optimized Spring Security workflows and SQL queries, improving API response time by 40%.
+</p>
+</details>
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/Spati01/Healthcare-Management-System">
 <img src="https://img.shields.io/badge/🏥_Healthcare_Mgmt_System-0D1117?style=for-the-badge&labelColor=E23E57&color=0D1117" width="230"/>
 </a>
 <br/>
-<sub>Healthcare Domain · Servlets · JSP · MySQL</sub>
+<sub>Healthcare Domain · Servlets · JSP · MySQL · Tomcat</sub>
+<details>
+<summary>Highlights</summary>
+<p align="left">
+- Constructed a multi-role healthcare portal for doctors, patients, and admins with role-specific dashboards.<br/>
+- Accelerated performance by 35% via SQL query optimization and database caching.
+</p>
+</details>
 </td>
 </tr>
 <tr>
@@ -350,7 +371,14 @@ resume:           ./resume.pdf
 <img src="https://img.shields.io/badge/🎟️_Coupon_Management-0D1117?style=for-the-badge&labelColor=9C27B0&color=0D1117" width="230"/>
 </a>
 <br/>
-<sub>E-commerce Domain · Spring Boot · MySQL</sub>
+<sub>E-commerce Domain · Spring Boot · Lombok · In-Memory</sub>
+<details>
+<summary>Highlights</summary>
+<p align="left">
+- Crafted a rule-based coupon engine with eligibility validation and cart-level discount logic.<br/>
+- Leveraged in-memory processing for low-latency offer evaluation.
+</p>
+</details>
 </td>
 <td align="center" width="33%">
 <a href="https://spati01.github.io/Portfolio-Website/">
@@ -368,11 +396,10 @@ resume:           ./resume.pdf
 </td>
 </tr>
 </table>
-
 </div>
 
 <p align="center">
-  <sub><em># tap any card to open the repo on GitHub · add more anytime by dropping a new card in this table</em></sub>
+  <sub><em># tap any card to open the repo · click "Highlights" to expand key contributions · add more anytime by dropping a new card</em></sub>
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
