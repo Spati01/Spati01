@@ -1,218 +1,117 @@
-```
-🔴 🟢 🟡   com.subhadippati.profile.Main
-```
-
-```
-Home.java │ About.java │ build.gradle │ Projects.java │ git.log │ Contact.java ●
-```
-
----
-
-```java
-@Portfolio
-public class SubhadipPati implements BackendEngineer {
-```
-
-<h1 align="center">Subhadip Pati</h1>
-<h4 align="center">// Java Backend Developer — Spring Boot · REST APIs · SQL · DSA</h4>
+<h1 align="center">Hi there, I'm Subhadip Pati 👋</h1>
+<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | SQL | DSA Enthusiast</h3>
 
 <p align="center">
-I build backend systems that stay simple and predictable — clean REST APIs, sane data models,
-and code that still makes sense to me (or anyone else) six months later. Deep in the JVM, mostly
-Spring Boot, with 1500+ DSA problems solved along the way.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+REST+APIs;1500%2B+DSA+problems+solved;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="#projects"><img src="https://img.shields.io/badge/View_Projects_→-39FF14?style=for-the-badge&logoColor=000000&labelColor=39FF14&color=39FF14" alt="View Projects"/></a>
-  <a href="#contact"><img src="https://img.shields.io/badge/Get_in_Touch-0D1117?style=for-the-badge&logoColor=39FF14&color=0D1117" alt="Get in touch"/></a>
-  <a href="https://drive.google.com/file/d/1j1xcntlsYsDDaS58-VwqCgOa3dG_c4r_/view?usp=sharing"><img src="https://img.shields.io/badge/↓_Resume.pdf-0D1117?style=for-the-badge&logoColor=39FF14&color=0D1117" alt="Resume"/></a>
-</p>
-
-```yaml
-# Console — run: Main.main()
-> Compiling...        BUILD SUCCESSFUL
-  Experience:          Backend dev, Java + Spring Boot
-  Stack:                Java 21 · Spring Boot · MySQL · SQL Server · REST APIs
-  Currently:            Solving DSA daily, building backend projects _
-```
-
-```java
-}
-```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt=""/> <a href="https://linkedin.com/in/subhadippati01"><img src="https://img.shields.io/badge/Connect-000000?style=for-the-badge&logoColor=39FF14&color=000000" alt="Connect"/></a>
-  <a href="https://leetcode.com/u/subhadip01/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=39FF14" /></a>
-  <a href="mailto:subhadippati30@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
-  <a href="https://spati01.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=39FF14" /></a>
-  <a href="https://medium.com/@subhadippati30"><img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=39FF14" /></a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Spati01&label=visitors&color=39FF14&style=flat-square&labelColor=0D1117" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Spati01?label=followers&style=flat-square&color=39FF14&labelColor=0D1117" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=spati01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://linkedin.com/in/subhadippati01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/subhadip01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://medium.com/@subhadippati30"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:subhadippati30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
 
-```java
-class About {
-```
+### 🚀 About Me
 
-### A bit of context
-
-I started backend development the way most people do — chasing down NullPointerExceptions on a
-college project — and never really left the JVM. These days I care about APIs that don't surprise
-the next person reading the code, and about grinding DSA until the "obvious" solution stops being
-the first one I reach for.
-
-| | |
-|---|---|
-| **focus** | Backend APIs, REST services, relational data modeling |
-| **currently** | Building backend projects with Java, Spring Boot, Spring Security, JPA/Hibernate |
-| **learning** | Microservices, Docker, AWS, System Design, AI + Java |
-| **writes** | [Medium — Building a production-ready RAG chat assistant with Elasticsearch + Spring Boot](https://medium.com/@subhadippati30/building-a-production-ready-rag-chat-assistant-with-elasticsearch-spring-boot-d8d9d2fd059b) |
-| **off the clock** | Solving DSA problems (1500+ and counting) 🧩 |
-
-```java
-}
-```
+- 🔭 Currently building backend applications using **Java, Spring Boot, Spring Security, JPA/Hibernate, and REST APIs**
+- 🌱 Currently learning **Microservices, Docker, AWS, System Design, and AI integration with Java**
+- 👯 Looking to collaborate on **open-source Java/Spring Boot backend projects, scalable REST APIs, and developer tools**
+- 🤝 Looking for help with **real-world Microservices, Docker, AWS, and System Design implementations**
+- 📝 I regularly write technical articles — check out my [RAG Chat Assistant with Elasticsearch & Spring Boot](https://medium.com/@subhadippati30/building-a-production-ready-rag-chat-assistant-with-elasticsearch-spring-boot-d8d9d2fd059b) writeup
+- 💬 Ask me about **Java, Spring Boot, REST APIs, SQL, DSA, OOP, Spring Security, and JWT**
+- ⚡ Fun fact: **I've solved 1,500+ DSA problems and still enjoy finding better ways to solve the same one 🚀**
+- 📄 [View my Resume](https://drive.google.com/file/d/1j1xcntlsYsDDaS58-VwqCgOa3dG_c4r_/view?usp=sharing) &nbsp;|&nbsp; 🌐 [Portfolio Website](https://spati01.github.io/Portfolio-Website/)
 
 ---
 
-```java
-interface Dependencies {
-```
-
-### What I build with
-
-`build.gradle.kts — implementation`
-
-| | |
-|---|---|
-| **Languages** | ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=39FF14) ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=39FF14) |
-| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=39FF14) ![Spring Security](https://img.shields.io/badge/Spring_Security-000000?style=flat-square&logo=springsecurity&logoColor=39FF14) ![Hibernate](https://img.shields.io/badge/Hibernate/JPA-000000?style=flat-square&logo=hibernate&logoColor=39FF14) ![REST](https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=39FF14) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=39FF14) ![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=flat-square&logo=microsoftsqlserver&logoColor=39FF14) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=39FF14) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=39FF14) ![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=39FF14) ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=39FF14) |
-| **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=39FF14) ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=39FF14) ![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=39FF14) |
-| **Exploring** | ![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=serverless&logoColor=39FF14) ![System Design](https://img.shields.io/badge/System_Design-000000?style=flat-square&logo=architecture&logoColor=39FF14) ![AI](https://img.shields.io/badge/AI_%2B_Java-000000?style=flat-square&logo=openai&logoColor=39FF14) |
-
-```java
-}
-```
-
----
-
-```java
-package projects;
-```
-
-### Selected work
-
-<a id="projects"></a>
-
-**Portfolio-Website**`.java`
-Personal portfolio site showcasing projects, skills, and experience.
-`React` `Tailwind CSS` `GitHub Pages`
-→ [Live site](https://spati01.github.io/Portfolio-Website/) · [Source](https://github.com/Spati01/Portfolio-Website)
-
-**Dynamic_PDF_Generation**`.java`
-Spring Boot REST API that generates PDFs on the fly using iText, built as a Java template engine exercise.
-`Spring Boot` `REST API` `iText`
-→ [Source](https://github.com/Spati01/Dynamic_PDF_Generation)
-
-**RAG Chat Assistant — writeup**`.md`
-Deep-dive article on building a production-ready RAG chat assistant with Elasticsearch and Spring Boot.
-`Elasticsearch` `Spring Boot` `RAG`
-→ [Read on Medium](https://medium.com/@subhadippati30/building-a-production-ready-rag-chat-assistant-with-elasticsearch-spring-boot-d8d9d2fd059b)
-
-**DSA Practice**`.md`
-1500+ problems solved and climbing — still hunting for the cleaner solution every time.
-`Java` `Data Structures` `Algorithms`
-→ [LeetCode profile](https://leetcode.com/u/subhadip01/)
-
----
-
-```java
-git log --oneline --author="subhadip" --reverse
-```
-
-- `commit a1c9e0` **Solved 1500+ DSA problems** — still hunting for cleaner solutions on LeetCode 🧩
-- `commit 7f3b41` **Published:** *Building a production-ready RAG chat assistant with Elasticsearch + Spring Boot* on Medium ✍️
-- `commit 4d2a89` **Shipped:** `Dynamic_PDF_Generation` — Spring Boot REST API generating PDFs with iText 📄
-- `commit 0e75b6` **Deployed:** personal portfolio site to showcase projects and experience 🌐
-- `commit 100000` **Initial commit** — started the Java + Spring Boot backend journey ☕
-
----
-
-```java
-class LiveStats {
-```
-
-### GitHub activity
-
-<a id="analytics"></a>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Spati01/Spati01/output/github-contribution-grid-snake.svg" alt="snake contribution animation" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spati01&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff" alt="Contribution Activity Graph" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Spati01&theme=algolia&no-frame=true&row=2&column=4&margin-w=8" alt="Spati01 trophies" width="49%" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Spati01&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="Spati01 GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spati01&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Spati01/Portfolio-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spati01&repo=Portfolio-Website&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="Portfolio-Website repo card" width="49%"/>
-  </a>
-  <a href="https://github.com/Spati01/Dynamic_PDF_Generation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spati01&repo=Dynamic_PDF_Generation&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="Dynamic_PDF_Generation repo card" width="49%"/>
-  </a>
-</p>
-
-```java
-}
-```
-
----
-
-```java
-public static void main(String[] args) {
-```
-
-### Let's talk
-
-<a id="contact"></a>
-
-```
-subhadip@dev ~/portfolio $ cat reach_me.txt
-```
+### 🛠️ Languages & Tools
 
 <p align="left">
-  → &nbsp;<a href="mailto:subhadippati30@gmail.com">subhadippati30@gmail.com</a><br>
-  → &nbsp;<a href="https://linkedin.com/in/subhadippati01" target="_blank">linkedin.com/in/subhadippati01</a><br>
-  → &nbsp;<a href="https://leetcode.com/u/subhadip01/" target="_blank">leetcode.com/u/subhadip01</a><br>
-  → &nbsp;<a href="https://spati01.github.io/Portfolio-Website/" target="_blank">spati01.github.io/Portfolio-Website</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
-
-```java
-}
-```
 
 ---
 
-<div align="center">
+### 📊 GitHub Analytics
 
-```
-subhadip@dev:~$ exit
-process finished with exit code 0 ✅
-```
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=spati01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spati01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-⎇ main&nbsp;&nbsp;·&nbsp;&nbsp;UTF-8&nbsp;&nbsp;·&nbsp;&nbsp;Java 21&nbsp;&nbsp;·&nbsp;&nbsp;🟢 BUILD SUCCESS&nbsp;&nbsp;·&nbsp;&nbsp;© 2026 Subhadip Pati
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spati01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=spati01&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spati01&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
+</p>
+
+<!--
+  🐍 Contribution Snake Graph (commit history animation)
+  To enable this, add the "GitHub Contribution Snake" GitHub Action to your profile repo:
+  https://github.com/Platane/snk — it generates snake.svg automatically on a schedule.
+  Once set up, uncomment the two lines below and it will render your commit history as a snake.
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spati01/spati01/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/spati01/spati01/output/github-contribution-grid-snake.svg" />
+  </picture>
+-->
+
+---
+
+### 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/spati01/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spati01&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Featured Repo 1"/>
+  </a>
+  <a href="https://github.com/spati01/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spati01&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Featured Repo 2"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/spati01/REPO_NAME_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spati01&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" alt="Featured Repo 3"/>
+  </a>
+  <a href="https://github.com/spati01/REPO_NAME_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spati01&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" alt="Featured Repo 4"/>
+  </a>
+</p>
+
+> ⚠️ Replace `REPO_NAME_1`–`REPO_NAME_4` above with your actual repository names (e.g. `RAG-Chat-Assistant`, `Portfolio-Website`) to showcase your best work.
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/subhadippati01" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhadippati01" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/subhadip01/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=spati01&label=Thanks%20for%20visiting&color=0e75b6&style=flat" alt="Thanks for visiting" />
+</p>
