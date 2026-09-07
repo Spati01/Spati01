@@ -32,7 +32,13 @@
 
 </div>
 
-<h4 align="center">subhadip@dev:~$ cat about_me.sh</h4>
+```
+╭──●───●───●───────────────────────────────────────────────╮
+│  bash — subhadip@dev: ~/about                             │
+├─────────────────────────────────────────────────────────-─┤
+│ $ cat about_me.sh                                          │
+╰─────────────────────────────────────────────────────────--╯
+```
 
 ```yaml
 current_focus:    Java, Spring Boot, Spring Security, JPA/Hibernate, REST APIs
@@ -49,7 +55,13 @@ resume:           ./resume.pdf
   📄 <a href="https://drive.google.com/file/d/1j1xcntlsYsDDaS58-VwqCgOa3dG_c4r_/view?usp=sharing" target="_blank"><b>Click Me!</b></a> to view my resume
 </p>
 
-<h4 align="center">subhadip@dev:~$ ls -la tech_stack/ --group-by=category</h4>
+```
+╭──●───●───●───────────────────────────────────────────────╮
+│  bash — subhadip@dev: ~/tech_stack                        │
+├─────────────────────────────────────────────────────────-─┤
+│ $ ls -la tech_stack/ --group-by=category                   │
+╰─────────────────────────────────────────────────────────--╯
+```
 
 <div align="center">
 
@@ -101,7 +113,13 @@ resume:           ./resume.pdf
 
 </div>
 
-<h4 align="center">subhadip@dev:~$ ./run_analytics.sh --verbose</h4>
+```
+╭──●───●───●───────────────────────────────────────────────╮
+│  bash — subhadip@dev: ~/analytics                         │
+├─────────────────────────────────────────────────────────-─┤
+│ $ ./run_analytics.sh --verbose                              │
+╰─────────────────────────────────────────────────────────--╯
+```
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=spati01&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="spati01 GitHub stats" />
@@ -124,7 +142,13 @@ resume:           ./resume.pdf
   <img src="https://github-profile-trophy.vercel.app/?username=spati01&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" alt="spati01 trophies" />
 </p>
 
-<h4 align="center">subhadip@dev:~$ git log --graph --oneline --contributor=snake</h4>
+```
+╭──●───●───●───────────────────────────────────────────────╮
+│  bash — subhadip@dev: ~/contributions                     │
+├─────────────────────────────────────────────────────────-─┤
+│ $ git log --graph --oneline --contributor=snake             │
+╰─────────────────────────────────────────────────────────--╯
+```
 
 <!--
   Snake animation setup (one time):
@@ -136,7 +160,13 @@ resume:           ./resume.pdf
   <img src="https://raw.githubusercontent.com/Spati01/Spati01/output/github-contribution-grid-snake.svg" alt="snake contribution animation" />
 </p>
 
-<h4 align="center">subhadip@dev:~$ ls -la projects/ --sort=featured</h4>
+```
+╭──●───●───●───────────────────────────────────────────────╮
+│  bash — subhadip@dev: ~/projects                          │
+├─────────────────────────────────────────────────────────-─┤
+│ $ ls -la projects/ --sort=featured                          │
+╰─────────────────────────────────────────────────────────--╯
+```
 
 <p align="center">
   <a href="https://spati01.github.io/Portfolio-Website/">
@@ -150,13 +180,25 @@ resume:           ./resume.pdf
   <sub><em># add more pinned repos anytime by swapping the repo= value above, or pin repos directly from your GitHub profile page</em></sub>
 </p>
 
-<h4 align="center">subhadip@dev:~$ fortune | cowsay -f dragon</h4>
+```
+╭──●───●───●───────────────────────────────────────────────╮
+│  bash — subhadip@dev: ~/random                            │
+├─────────────────────────────────────────────────────────-─┤
+│ $ fortune | cowsay -f dragon                                 │
+╰─────────────────────────────────────────────────────────--╯
+```
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
 </p>
 
-<h4 align="center">subhadip@dev:~$ cat social_links.json</h4>
+```
+╭──●───●───●───────────────────────────────────────────────╮
+│  bash — subhadip@dev: ~/contact                           │
+├─────────────────────────────────────────────────────────-─┤
+│ $ cat social_links.json                                      │
+╰─────────────────────────────────────────────────────────--╯
+```
 
 <p align="center">
   <a href="https://linkedin.com/in/subhadippati01" target="_blank">
@@ -169,8 +211,14 @@ resume:           ./resume.pdf
 
 <div align="center">
 
-`subhadip@dev:~$ exit`
-`process finished with exit code 0 ✅`
+```
+╭──●───●───●───────────────────────────────────────────────╮
+│  bash — subhadip@dev: ~                                   │
+├─────────────────────────────────────────────────────────-─┤
+│ $ exit                                                        │
+│ process finished with exit code 0 ✅                          │
+╰─────────────────────────────────────────────────────────--╯
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,25:15803d,50:166534,75:14532d,100:0f5132&height=150&section=footer&text=Keep%20Compiling%20%F0%9F%9A%80&fontColor=FFFFFF&fontSize=22&animation=fadeIn" alt="footer" width="100%"/>
 
