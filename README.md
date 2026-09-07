@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f5132,25:14532d,50:166534,75:15803d,100:39FF14&height=210&section=header&text=Subhadip%20Pati&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=55&descSize=18&descColor=E6FFE6&animation=fadeIn" alt="header banner" width="100%"/>
 
-<img src="https://progress-bar.dev/100/?title=booting+profile&width=500&color=39FF14&suffix=%25" alt="boot progress" />
-
 ```
    _____       _     _               _ _         _____      _   _ 
   / ____|     | |   | |             | (_)       |  __ \    | | (_)
@@ -58,7 +56,7 @@ resume:           ./resume.pdf
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA%20Problems%20Solved-1500%2B-39FF14?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/DSA%20Problems%20Solved-1500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Articles%20Published-Medium-39FF14?style=for-the-badge&logo=medium&logoColor=black&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-39FF14?style=for-the-badge&logo=java&logoColor=black&labelColor=0D1117" />
 </p>
@@ -138,28 +136,28 @@ resume:           ./resume.pdf
 <table>
 <tr>
 <td align="center" width="70"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="34" height="34"/></td>
-<td width="140" align="left"><b>Java</b></td>
-<td><img src="https://progress-bar.dev/90/?width=350&color=39FF14" /></td>
+<td width="160" align="left"><b>Java</b></td>
+<td width="200"><img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-90%25-39FF14?style=flat-square&labelColor=0D1117" /></td>
 </tr>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="34" height="34"/></td>
 <td align="left"><b>Spring Boot</b></td>
-<td><img src="https://progress-bar.dev/85/?width=350&color=39FF14" /></td>
+<td><img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-85%25-39FF14?style=flat-square&labelColor=0D1117" /></td>
 </tr>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="34" height="34"/></td>
 <td align="left"><b>SQL / Databases</b></td>
-<td><img src="https://progress-bar.dev/80/?width=350&color=39FF14" /></td>
+<td><img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91-80%25-39FF14?style=flat-square&labelColor=0D1117" /></td>
 </tr>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="34" height="34"/></td>
 <td align="left"><b>REST API Design</b></td>
-<td><img src="https://progress-bar.dev/88/?width=350&color=39FF14" /></td>
+<td><img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-88%25-39FF14?style=flat-square&labelColor=0D1117" /></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/leetcode/39FF14" width="34" height="34"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="34" height="34"/></td>
 <td align="left"><b>DSA / Problem Solving</b></td>
-<td><img src="https://progress-bar.dev/92/?width=350&color=39FF14" /></td>
+<td><img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91-92%25-FFA116?style=flat-square&labelColor=0D1117" /></td>
 </tr>
 </table>
 
