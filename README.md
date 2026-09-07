@@ -185,29 +185,29 @@ resume:           ./resume.pdf
 
 <table>
 <tr>
-<td align="center" width="70"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="34" height="34"/></td>
-<td width="160" align="left"><b>Java</b></td>
-<td width="200"><img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-90%25-39FF14?style=flat-square&labelColor=0D1117" /></td>
+<td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36"/></td>
+<td width="150" align="left"><b>Java</b></td>
+<td width="320"><img src="https://progress-bar.dev/90/?title=&width=280&color=f89820&suffix=%25"/></td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="34" height="34"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" height="36"/></td>
 <td align="left"><b>Spring Boot</b></td>
-<td><img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-85%25-39FF14?style=flat-square&labelColor=0D1117" /></td>
+<td><img src="https://progress-bar.dev/85/?title=&width=280&color=6DB33F&suffix=%25"/></td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="34" height="34"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36"/></td>
 <td align="left"><b>SQL / Databases</b></td>
-<td><img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91-80%25-39FF14?style=flat-square&labelColor=0D1117" /></td>
+<td><img src="https://progress-bar.dev/80/?title=&width=280&color=00758F&suffix=%25"/></td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="34" height="34"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="36" height="36"/></td>
 <td align="left"><b>REST API Design</b></td>
-<td><img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-88%25-39FF14?style=flat-square&labelColor=0D1117" /></td>
+<td><img src="https://progress-bar.dev/88/?title=&width=280&color=A855F7&suffix=%25"/></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="34" height="34"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="36" height="36"/></td>
 <td align="left"><b>DSA / Problem Solving</b></td>
-<td><img src="https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91-92%25-FFA116?style=flat-square&labelColor=0D1117" /></td>
+<td><img src="https://progress-bar.dev/92/?title=&width=280&color=FFA116&suffix=%25"/></td>
 </tr>
 </table>
 
@@ -276,32 +276,61 @@ resume:           ./resume.pdf
 ╰─────────────────────────────────────────────────────────--╯
 ```
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/Spati01/WorkforceManagementAPI">
+<img src="https://img.shields.io/badge/🧑‍💼_Workforce_Mgmt_API-0D1117?style=for-the-badge&labelColor=1F6FEB&color=0D1117" width="230"/>
+</a>
+<br/>
+<sub>HR &amp; Workforce Domain · Java · Spring Boot</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/Spati01/SCM2.0">
+<img src="https://img.shields.io/badge/📦_SCM_2.0-0D1117?style=for-the-badge&labelColor=F2803F&color=0D1117" width="230"/>
+</a>
+<br/>
+<sub>Supply Chain Domain · Java · REST APIs</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/Spati01/Healthcare-Management-System">
+<img src="https://img.shields.io/badge/🏥_Healthcare_Mgmt_System-0D1117?style=for-the-badge&labelColor=E23E57&color=0D1117" width="230"/>
+</a>
+<br/>
+<sub>Healthcare Domain · Servlets · JSP · MySQL</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/Spati01/Coupon-Management">
+<img src="https://img.shields.io/badge/🎟️_Coupon_Management-0D1117?style=for-the-badge&labelColor=9C27B0&color=0D1117" width="230"/>
+</a>
+<br/>
+<sub>E-commerce Domain · Spring Boot · MySQL</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://spati01.github.io/Portfolio-Website/">
+<img src="https://img.shields.io/badge/💼_Portfolio_Website-0D1117?style=for-the-badge&labelColor=00C8FF&color=0D1117" width="230"/>
+</a>
+<br/>
+<sub>Personal Portfolio · HTML · CSS · JS</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/Spati01/Dynamic_PDF_Generation">
+<img src="https://img.shields.io/badge/📄_Dynamic_PDF_Generation-0D1117?style=for-the-badge&labelColor=FFB300&color=0D1117" width="230"/>
+</a>
+<br/>
+<sub>Document Automation · Java</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
 <p align="center">
-  <a href="https://github.com/Spati01/WorkforceManagementAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spati01&repo=WorkforceManagementAPI&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="WorkforceManagementAPI repo card"/>
-  </a>
-  <a href="https://github.com/Spati01/SCM2.0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spati01&repo=SCM2.0&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="SCM2.0 repo card"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Spati01/Healthcare-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spati01&repo=Healthcare-Management-System&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="Healthcare-Management-System repo card"/>
-  </a>
-  <a href="https://github.com/Spati01/Coupon-Management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spati01&repo=Coupon-Management&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="Coupon-Management repo card"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://spati01.github.io/Portfolio-Website/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spati01&repo=Portfolio-Website&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="Portfolio-Website repo card"/>
-  </a>
-  <a href="https://github.com/Spati01/Dynamic_PDF_Generation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spati01&repo=Dynamic_PDF_Generation&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="Dynamic_PDF_Generation repo card"/>
-  </a>
-</p>
-<p align="center">
-  <sub><em># add more pinned repos anytime by swapping the repo= value above, or pin repos directly from your GitHub profile page</em></sub>
+  <sub><em># tap any card to open the repo on GitHub · add more anytime by dropping a new card in this table</em></sub>
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
