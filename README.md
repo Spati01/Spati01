@@ -338,7 +338,7 @@ resume:           ./resume.pdf
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/Spati01/SCM2.0">
-<img src="https://img.shields.io/badge/📦_Smart_Contact_Mgmt-0D1117?style=for-the-badge&labelColor=F2803F&color=0D1117" width="230"/>
+<img src="https://img.shields.io/badge/📇_Smart_Contact_Mgmt-0D1117?style=for-the-badge&labelColor=F2803F&color=0D1117" width="230"/>
 </a>
 <br/>
 <sub>Security Domain · Spring Security · OAuth2 · MySQL</sub>
